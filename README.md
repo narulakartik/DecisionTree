@@ -1,2 +1,2 @@
 # DecisionTree
-Implementation of Decision Tree classification algorithm from scratch in python
+Implementation of a binary decision Tree classification algorithm from scratch in python
